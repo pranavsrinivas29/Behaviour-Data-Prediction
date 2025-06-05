@@ -31,12 +31,15 @@ To classify individuals as **Introverts** (`1`) or **Extroverts** (`0`) based on
 
 ---
 
+## 📈 Correlation Plot
 
+![Model Correlation Plot](output.png)
+
+---
 
 ## 📈 Box Plot
 
 ![Model Box Plot](Screenshot%202025-06-05%20at%2022.47.35.png)
-
 
 ---
 
