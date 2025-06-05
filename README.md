@@ -35,7 +35,8 @@ To classify individuals as **Introverts** (`1`) or **Extroverts** (`0`) based on
 
 ## 📈 Box Plot
 
-![Model Comparison Chart](Screenshot 2025-06-05 at 22.47.35.png)
+![Model Box Plot](Screenshot%202025-06-05%20at%2022.47.35.png)
+
 
 ---
 
